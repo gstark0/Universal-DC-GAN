@@ -4,7 +4,7 @@
 
 Hello! This is an implementation of Deep Convolutional Generative Adversarial Network in TensorFlow. It is made to be simple, intuitive and as fast at training as possible.
 
-<h4>Getting Started</h4>
+## Getting Started
 
 In order to run Universal-DC-GAN, you will need the following dependencies:
 - tensorflow==1.8.0
@@ -19,7 +19,7 @@ You can download them by running this command while being in Universal-DC-GAN di
 
     pip install -r requirements.txt
     
-<h4>Config</h4>
+## Config
 
 Default settings are in `config.py` file. You can configure pretty much anything you want there, each option is explained inside the file. Here are some basic options:
 
@@ -33,7 +33,7 @@ Default settings are in `config.py` file. You can configure pretty much anything
 
 `w, h = 512, 512` - Width and height of all the images in your training dataset
 
-<h4>Running</h4>
+## Running
 
 In order to run the script, just do:
 
@@ -41,18 +41,18 @@ In order to run the script, just do:
     
 Example results should now appear, every number of iterations specified in config file to the output directory (default is `output`)
 
-<h4>Examples</h4>
+## Examples
 
 You can find some of the generated examples below. Note that the results may be improved significantly, by extending the time, needed to train the network. Models used to generate these examples were trained around 3-4 hours each, on GTX1060.
 
-<b>128x128</b></br>
+### 128x128
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/11850.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12400.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12450.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12700.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/13250.png)
 
-<b>256x256</b></br>
+### 256x256
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/350.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/400.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/1500.png)
