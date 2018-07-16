@@ -43,11 +43,18 @@ Example results should now appear, every number of iterations specified in confi
 
 <h4>Examples</h4>
 
-You can find some of the examples below. Note that the results may be improved significantly, by extending the time, needed to train the network.
+You can find some of the generated examples below. Note that the results may be improved significantly, by extending the time, needed to train the network. Models used to generate these examples were trained around 3-4 hours each, on GTX1060.
 
-<b>128x128</b>
+<b>128x128</b></br>
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/11850.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12400.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12450.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/12700.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/128x128/13250.png)
+
+<b>256x256</b></br>
+![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/350.png)
+![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/400.png)
+![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/1500.png)
+![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/7700.png)
+![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/10300.png)
