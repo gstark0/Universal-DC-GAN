@@ -1,6 +1,6 @@
 # Universal-DC-GAN [WIP]
 
-<h4>Overview</h4>
+## Overview
 
 Hello! This is an implementation of Deep Convolutional Generative Adversarial Network in TensorFlow. It is made to be simple, intuitive and as fast at training as possible.
 
