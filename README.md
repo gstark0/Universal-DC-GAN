@@ -56,5 +56,3 @@ You can find some of the generated examples below. Note that the results may be 
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/350.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/400.png)
 ![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/1500.png)
-![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/7700.png)
-![alt text](https://raw.githubusercontent.com/gstark0/Universal-DC-GAN/master/sample_images/sample_output/256x256/10300.png)
