@@ -39,7 +39,7 @@ In order to run the script, just do:
 
     python model.py
     
-Example results should now appear, every number of iterations specified in config file to the output directory (default is `output`)
+Example results should now appear in the output directory (default is `output`), every number of iterations specified in config file.
 
 ## Examples
 
