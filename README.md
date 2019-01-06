@@ -1,4 +1,4 @@
-# Universal-DC-GAN [WIP]
+# Universal-DC-GAN
 
 ## Overview
 
